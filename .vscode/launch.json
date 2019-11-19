@@ -1,0 +1,88 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - task78",
+            "request": "launch",
+            "mainClass": "task78"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - task28",
+            "request": "launch",
+            "mainClass": "task28"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - task27",
+            "request": "launch",
+            "mainClass": "task27"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - task26",
+            "request": "launch",
+            "mainClass": "task26"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - task25",
+            "request": "launch",
+            "mainClass": "task25"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - task24",
+            "request": "launch",
+            "mainClass": "task24"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - task23",
+            "request": "launch",
+            "mainClass": "task23"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - task23",
+            "request": "launch",
+            "mainClass": "PACKAGE_NAME.task23"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - task15",
+            "request": "launch",
+            "mainClass": "task15"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - task13",
+            "request": "launch",
+            "mainClass": "task13"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - video57",
+            "request": "launch",
+            "mainClass": "video57"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - task4",
+            "request": "launch",
+            "mainClass": "task4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - task2",
+            "request": "launch",
+            "mainClass": "task2"
+        }
+    ]
+}
